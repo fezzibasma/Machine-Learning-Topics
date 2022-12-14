@@ -1,6 +1,6 @@
 # Bloc 3 : [Predictive analysis of structured data using artificial intelligence 📁🔍 ] Mandatory for JedhaBootcamp certification
 
-Here you can explore various projects around Machine Learning Algorithms : ( see under the description and goals of each project).
+Here you can explore various projects around Machine Learning Algorithms : ( read below the description and goals of each project 🌋).
 
 Don't hesitate to follow each ReadMe of every projet if you would like to run it 😼🔎
 
