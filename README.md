@@ -41,15 +41,6 @@ For this project, you'll work with a dataset that contains information about wee
 
 # Second project : Predict conversions 🏆🏆 ( Supervised Machine-Learning ) 
 
-In this project, you will participate to a machine learning competition like the ones that are organized by https://www.kaggle.com/. You will be able to work with jupyter notebooks as usual, but in the end you'll have to submit your model's predictions to your teacher/TA, so your model's performances will be evaluated in an independent way. The scores achieved by the different teams will be stored into a leaderboard 🏅🏅
-
-#### Description of a machine learning challenge 🚴🚴
-In machine learning challenges, the dataset is always separated into to files :
-data_train.csv contains labelled data, which means there are both X (explanatory variables) and Y (the target to be predicted). You will use this file to train your model as usual : make the train/test split, preprocessings, assess performances, try different models, fine-tune hyperparameters etc...
-data_test.csv contains "new" examples that have not be used to train the model, in the same format as in data_train.csv but it is unlabeled, which means the target Y has been removed from the file. Once you've trained a model, you will use data_test.csv to make some predictions that you will send to the organizing team. They will then be able to assess the performances of your model in an independent way, by preventing cheating 🤸
-Your model's predictions will be compared to the true labels and releases a leaderboard where the scores of all the teams around the world are stored
-All the participants are informed about the metric that will be used to assess the scores. You have to make sure you're using the same metric to evaluate your train/test performances !
-
 #### Company's Description 📇
 www.datascienceweekly.org is a famous newsletter curated by independent data scientists. Anyone can register his/her e-mail address on this website to receive weekly news about data science and its applications !
 
