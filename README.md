@@ -28,16 +28,19 @@ Eventhough both neighborhood are not that far away, users would still have to wa
 Therefore, Uber's data team would like to work on a project where their app would recommend hot-zones in major cities to be in at any given time of day.
 
 #### Goals 🎯
-Uber already has data about pickups in major cities. Your objective is to create algorithms that will determine where are the hot-zones that drivers should be in. Therefore you will:
-
+Uber already has data about pickups in major cities. Your objective is to create algorithms that will determine where are the hot-zones that drivers should be in. 
 Create an algorithm to find hot zones
 Visualize results on a nice dashboard
 Scope of this project 🖼️
-To start off, Uber wants to try this feature in New York city. Therefore you will only focus on this city. Data can be found here:
+To start off, Uber wants to try this feature in New York city.
 
-👉👉 Uber Trip Data 👈👈
 
-You only need to focus on New York City for this project
+## Result with k-means : 
+
+ <img width="964" alt="image" src="https://user-images.githubusercontent.com/23299967/207673475-70078a5a-d632-4738-8108-1724d8b6a3f8.png">
+ 
+## Result with dbscan : 
+<img width="976" alt="image" src="https://user-images.githubusercontent.com/23299967/207673690-41f47e07-7bf3-4c49-9d9b-926cf81839cd.png">
 
 
 # Second project : Walmart Sales ( Supervised Machine-Learning ) 
@@ -59,13 +62,6 @@ Part 3 : avoid overfitting by training a regularized regression model
 Scope of this project 🖼️
 For this project, you'll work with a dataset that contains information about weekly sales achieved by different Walmart stores, and other variables such as the unemployment rate or the fuel price, that might be useful for predicting the amount of sales. The dataset has been taken from a Kaggle competition, but we made some changes compared to the original data. 🤓
 
-
-
-
-
-
-
-
 # Third project : Predict conversions 🏆🏆 ( Supervised Machine-Learning ) 
 
 #### Company's Description 📇
@@ -82,10 +78,11 @@ The project can be cut into four steps :
 Part 1 : make an EDA and the preprocessings and train a baseline model with the file data_train.csv
 Part 2 : improve your model's f1-score on your test set (you can try feature engineering, feature selection, regularization, non-linear models, hyperparameter optimization by grid search, etc...)
 
+## Result with different algorithms : 
 
+## Gradient Descent Stochastic Classifier and XGDC ( XGBoost with extreme Gradient descent ) performs very well with overfitting. XGBoost applies a better regularization technique to reduce overfitting, and it is one of the differences from the gradient boosting.
 
-
-
+<img width="1069" alt="image" src="https://user-images.githubusercontent.com/23299967/207675151-b1f21b15-aefc-409b-a3d0-ca8ec0960043.png">
 
 
 
