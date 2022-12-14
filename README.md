@@ -12,7 +12,7 @@ Mail : fezzibasma@gmail.com
 
 Vidyard Link : [#](https://share.vidyard.com/watch/JahVymiEY5KXERvv8au1Uc?) 
 
-# First project : UBER Pickups. ( Unsupervised Machine-Learning )
+# First project : UBER Pickups ( Unsupervised Machine-Learning )
 
 #### Company's Description 📇
 Uber is one of the most famous startup in the world. It started as a ride-sharing application for people who couldn't afford a taxi. Now, Uber expanded its activities to Food Delivery with Uber Eats, package delivery, freight transportation and even urban transportation with Jump Bike and Lime that the company funded.
