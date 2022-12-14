@@ -1,6 +1,7 @@
 # Bloc 3 : [Predictive analysis of structured data using artificial intelligence ] Mandatory for JedhaBootcamp certification
 
-Here you can explore different projets around Machine Learning Algorithms : ( see under the description and goals of each project)
+Here you can explore different projets around Machine Learning Algorithms : ( see under the description and goals of each project).
+Don't hesitate to follow each ReadMe of every projet if you would like to run it :)
 
 1) Walmart Sales 
 2) Convertion rate 
@@ -67,7 +68,7 @@ Part 2 : improve your model's f1-score on your test set (you can try feature eng
 
 
 
-# Last projet : UBER Pickups. ( Unsupervised Machine-Learning )
+# Third projet : UBER Pickups. ( Unsupervised Machine-Learning )
 
 #### Company's Description 📇
 Uber is one of the most famous startup in the world. It started as a ride-sharing application for people who couldn't afford a taxi. Now, Uber expanded its activities to Food Delivery with Uber Eats, package delivery, freight transportation and even urban transportation with Jump Bike and Lime that the company funded.
