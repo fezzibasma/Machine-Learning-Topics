@@ -4,9 +4,10 @@ Here you can explore various projects around Machine Learning Algorithms : ( rea
 
 Don't hesitate to follow each ReadMe of every projet if you would like to run it 😼🔎
 
-1) Walmart Sales 
-2) Convertion rate 
-3) Uber Pickups
+1) Uber Pickups
+2) Walmart Sales 
+3) Convertion rate 
+ 
 
 Mail : fezzibasma@gmail.com
 
