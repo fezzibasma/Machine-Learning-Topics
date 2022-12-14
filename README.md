@@ -2,9 +2,9 @@
 
 Here you can explore different projets around Machine Learning Algorithms : ( see under the description and goals of each project)
 
-- 1) Walmart Sales 
-- 2) Convertion rate 
-- 3) Uber Pickups
+1) Walmart Sales 
+2) Convertion rate 
+3) Uber Pickups
 
 Mail : fezzibasma@gmail.com
 
