@@ -1,6 +1,6 @@
 # Bloc 3 : [Predictive analysis of structured data using artificial intelligence ] Mandatory for JedhaBootcamp certification
 
-Here you can explore different projets around Machine Learning Algorithms : ( see under the description and goals of each project).
+Here you can explore various projects around Machine Learning Algorithms : ( see under the description and goals of each project).
 Don't hesitate to follow each ReadMe of every projet if you would like to run it :)
 
 1) Walmart Sales 
@@ -12,7 +12,7 @@ Mail : fezzibasma@gmail.com
 Vidyard Link : 
 
 
-# First projet : Walmart Sales ( Supervised Machine-Learning ) 
+# First project : Walmart Sales ( Supervised Machine-Learning ) 
 
 ## Walmart Sales : predict weekly sales
 
@@ -38,7 +38,7 @@ For this project, you'll work with a dataset that contains information about wee
 
 
 
-# Second projet : Predict conversions 🏆🏆 ( Supervised Machine-Learning ) 
+# Second project : Predict conversions 🏆🏆 ( Supervised Machine-Learning ) 
 
 In this project, you will participate to a machine learning competition like the ones that are organized by https://www.kaggle.com/. You will be able to work with jupyter notebooks as usual, but in the end you'll have to submit your model's predictions to your teacher/TA, so your model's performances will be evaluated in an independent way. The scores achieved by the different teams will be stored into a leaderboard 🏅🏅
 
@@ -68,7 +68,7 @@ Part 2 : improve your model's f1-score on your test set (you can try feature eng
 
 
 
-# Third projet : UBER Pickups. ( Unsupervised Machine-Learning )
+# Third project : UBER Pickups. ( Unsupervised Machine-Learning )
 
 #### Company's Description 📇
 Uber is one of the most famous startup in the world. It started as a ride-sharing application for people who couldn't afford a taxi. Now, Uber expanded its activities to Food Delivery with Uber Eats, package delivery, freight transportation and even urban transportation with Jump Bike and Lime that the company funded.
