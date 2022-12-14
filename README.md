@@ -12,55 +12,7 @@ Mail : fezzibasma@gmail.com
 
 Vidyard Link : 
 
-
-# First project : Walmart Sales ( Supervised Machine-Learning ) 
-
-## Walmart Sales : predict weekly sales
-
-### Company's Description 📇
-Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in 1962.
-
-#### Project 🚧
-Walmart's marketing service has asked you to build a machine learning model able to estimate the weekly sales in their stores, with the best precision possible on the predictions made. Such a model would help them understand better how the sales are influenced by economic indicators, and might be used to plan future marketing campaigns.
-
-#### Goals 🎯
-The project can be divided into three steps:
-
-Part 1 : make an EDA and all the necessary preprocessings to prepare data for machine learning
-Part 2 : train a linear regression model (baseline)
-Part 3 : avoid overfitting by training a regularized regression model
-Scope of this project 🖼️
-For this project, you'll work with a dataset that contains information about weekly sales achieved by different Walmart stores, and other variables such as the unemployment rate or the fuel price, that might be useful for predicting the amount of sales. The dataset has been taken from a Kaggle competition, but we made some changes compared to the original data. 🤓
-
-
-
-
-
-
-
-
-# Second project : Predict conversions 🏆🏆 ( Supervised Machine-Learning ) 
-
-#### Company's Description 📇
-www.datascienceweekly.org is a famous newsletter curated by independent data scientists. Anyone can register his/her e-mail address on this website to receive weekly news about data science and its applications !
-
-#### Project 🚧
-The data scientists who created the newsletter would like to understand better the behaviour of the users visiting their website. They would like to know if it's possible to build a model that predicts if a given user will subscribe to the newsletter, by using just a few information about the user. They would like to analyze the parameters of the model to highlight features that are important to explain the behaviour of the users, and maybe discover a new lever for action to improve the newsletter's conversion rate.
-
-They designed a competition aiming at building a model that allows to predict the conversions (i.e. when a user will subscribe to the newsletter). To do so, they open-sourced a dataset containing some data about the traffic on their website. To assess the rankings of the different competing teams, they decided to use the f1-score.
-
-#### Goals 🎯
-The project can be cut into four steps :
-
-Part 1 : make an EDA and the preprocessings and train a baseline model with the file data_train.csv
-Part 2 : improve your model's f1-score on your test set (you can try feature engineering, feature selection, regularization, non-linear models, hyperparameter optimization by grid search, etc...)
-
-
-
-
-
-
-# Third project : UBER Pickups. ( Unsupervised Machine-Learning )
+# First project : UBER Pickups. ( Unsupervised Machine-Learning )
 
 #### Company's Description 📇
 Uber is one of the most famous startup in the world. It started as a ride-sharing application for people who couldn't afford a taxi. Now, Uber expanded its activities to Food Delivery with Uber Eats, package delivery, freight transportation and even urban transportation with Jump Bike and Lime that the company funded.
@@ -86,6 +38,56 @@ To start off, Uber wants to try this feature in New York city. Therefore you wil
 👉👉 Uber Trip Data 👈👈
 
 You only need to focus on New York City for this project
+
+
+# Second project : Walmart Sales ( Supervised Machine-Learning ) 
+
+## Walmart Sales : predict weekly sales
+
+### Company's Description 📇
+Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in 1962.
+
+#### Project 🚧
+Walmart's marketing service has asked you to build a machine learning model able to estimate the weekly sales in their stores, with the best precision possible on the predictions made. Such a model would help them understand better how the sales are influenced by economic indicators, and might be used to plan future marketing campaigns.
+
+#### Goals 🎯
+The project can be divided into three steps:
+
+Part 1 : make an EDA and all the necessary preprocessings to prepare data for machine learning
+Part 2 : train a linear regression model (baseline)
+Part 3 : avoid overfitting by training a regularized regression model
+Scope of this project 🖼️
+For this project, you'll work with a dataset that contains information about weekly sales achieved by different Walmart stores, and other variables such as the unemployment rate or the fuel price, that might be useful for predicting the amount of sales. The dataset has been taken from a Kaggle competition, but we made some changes compared to the original data. 🤓
+
+
+
+
+
+
+
+
+# Third project : Predict conversions 🏆🏆 ( Supervised Machine-Learning ) 
+
+#### Company's Description 📇
+www.datascienceweekly.org is a famous newsletter curated by independent data scientists. Anyone can register his/her e-mail address on this website to receive weekly news about data science and its applications !
+
+#### Project 🚧
+The data scientists who created the newsletter would like to understand better the behaviour of the users visiting their website. They would like to know if it's possible to build a model that predicts if a given user will subscribe to the newsletter, by using just a few information about the user. They would like to analyze the parameters of the model to highlight features that are important to explain the behaviour of the users, and maybe discover a new lever for action to improve the newsletter's conversion rate.
+
+They designed a competition aiming at building a model that allows to predict the conversions (i.e. when a user will subscribe to the newsletter). To do so, they open-sourced a dataset containing some data about the traffic on their website. To assess the rankings of the different competing teams, they decided to use the f1-score.
+
+#### Goals 🎯
+The project can be cut into four steps :
+
+Part 1 : make an EDA and the preprocessings and train a baseline model with the file data_train.csv
+Part 2 : improve your model's f1-score on your test set (you can try feature engineering, feature selection, regularization, non-linear models, hyperparameter optimization by grid search, etc...)
+
+
+
+
+
+
+
 
 
 
